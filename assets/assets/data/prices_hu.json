@@ -1,0 +1,197 @@
+{
+    "locale": "hu",
+    "groups":[
+        {
+            "id"       : 0,
+            "title"    : "Konzultációk & diagnosztikák",
+            "services" : {
+                "Konzultáció"                  : "5 000 Ft - 15'",
+                "Bőrdiagnosztika"              : "10 000 Ft - 20'",
+                "Személyre szabott tanácsadás" : "13 000 Ft - 20'"
+            }
+        },
+        {
+            "id"       : 1,
+            "title"    : "Gépi kezelés",
+            "services" : {
+                "Vito / vérzécsillapítás"    : "3 500 Ft",
+                "Vito / duzzanat csökkentés" : "3 500 Ft",
+                "Iontoforézis / galvántartalmú mélyhidratálás" : "5 000 Ft",
+                "Ultrahangos kézápolás" : "5 000 Ft",
+                "Paraffinos kézápolás"  : "4 000 Ft"
+            }
+        },
+        {
+            "id"       : 2,
+            "title"    : "Extra anyagok",
+            "services" : {
+                "Maszk / pakolás"               : "2 000 Ft-tól",
+                "Speciális szérum készítmények" : "5 000 Ft-tól",
+                "Microdermabrasion / gyémántfejes gépi vacum peeling" : "5 000 Ft "
+            }
+        },
+        {
+            "id"       : 3,
+            "title"    : "Regeneráló kezelések",
+            "services" : {
+                "peeling"   : "18 000 Ft",
+                "vio"       : "18 000 Ft",
+                "ionto"     : "18 000 Ft",
+                "ultrahang" : "18 000 Ft",
+                "arc + dekoltázs masszáz" : "18 000 Ft"
+            }
+        },
+        {
+            "id"       : 4,
+            "title"    : "Extra regeneráló kezelések",
+            "services" : {
+                "peeling"   : "23 000 Ft",
+                "vio"       : "23 000 Ft",
+                "ionto"     : "23 000 Ft",
+                "ultrahang" : "23 000 Ft",
+                "arc / dekoltázs masszáz speciális szérummal" : "23 000 Ft",
+                "Lézeres ránckezelés" : "23 000 Ft"
+            }
+        },
+        {
+            "id"       : 5,
+            "title"    : "Bőrgyógyászati kezelések",
+            "services" : {
+                "Electrocoagulation / hajsálértágulás, bőrnövedékek végleges eltávolítása"     : "1 000 Ft / pont ",
+                "Szőralánövés kezelés"                : "1000 Ft / db",
+                "Rozácea kezelés"                     : "20 000 Ft",
+                "Lézeres rozácea-, értágulat kezelés" : "20 000 Ft",
+                "Microlypómák steril eltávolítása / zsírcsomócskák végleges kiirtása" : "20 000 Ft"
+            }
+        },
+        {
+            "id"       : 6,
+            "title"    : "Pigmentfolt halványítás",
+            "services" : {
+                "Arc"                            : "1 500 Ft / pont-tól",
+                "Kar"                            : "2 000 Ft / pont-tól",
+                "Egyéb terület"                  : "2 000 Ft / pont-tól",
+                "Lézeres pigmentfolt etávolítás" : "2 000 Ft / pont-tól"
+            }
+        },
+        {
+            "id"       : 7,
+            "title"    : "Bőrtisztító kezelések",
+            "services" : {
+                "Steril helyi tisztítás max 15'" : "10 000 Ft",
+                "Általános alapkezelés / peeling, gőz, steril tisztítás, vio, ionto" : "20 000 Ft",
+                "Férfi általános / peeling, gőz, steril tisztítás, vio, ionto" : "20 000 Ft",
+                "Komplett arckezelés / peeling, gőz, tisztítás, vio, ionto, ultrahang, arcmasszázs" : "30 000 Ft",
+                "Hátkezelés" : "15 000 Ft",
+                "Extra arckezelés / peeling, gőz, tisztítás, vio, ionto, ultrahang, arc + dekoltázs masszázs" : "30 000 Ft",
+                "A kezelésekhez tartozó, befejező, rekonstrukcios antiszeptikus smink" : "2 000 Ft-tól"
+            }
+        },
+        {
+            "id"       : 8,
+            "title"    : "Festés",
+            "services" : {
+                "Szempilla"       : "2 800 Ft",
+                "Szemöldök"       : "2 800 Ft",
+                "Szemöldökszedés" : "2 000 Ft"
+            }
+        },
+        {
+            "id"       : 9,
+            "title"    : "Masszázs",
+            "services" : {
+                "Arc 15'"                : "6 000 Ft 15'",
+                "Arc-nyak 15'"           : "8 000 Ft 15'",
+                "Arc-nyak-dekoltázs 25'" : "10 000 Ft 30'"
+            }
+        },
+        {
+            "id"       : 10,
+            "title"    : "Gyantázás",
+            "services" : {
+                "Szemöldök"                 : "2 800 Ft",
+                "Orrkagylók"                : "2 000 Ft",
+                "Bajúsz"                    : "2 000 Ft",
+                "Arc részleg"               : "3 500 Ft",
+                "Arc teljes"                : "4 500 Ft",
+                "Vállak"                    : "2 000 Ft",
+                "Hát részleges"             : "4 000 Ft",
+                "Hát teljes"                : "6 000 Ft",
+                "Láb térdig"                : "4 500 Ft",
+                "Láb végig"                 : "7 000 Ft",
+                "Comb"                      : "4 000 Ft",
+                "Hónalj"                    : "3 000 Ft",
+                "Kar könyégik"              : "3 000 Ft",
+                "Kar végig"                 : "4 000 Ft",
+                "Kéz, lábfej, és újjak"     : "2 500 Ft",
+                "Mellkas teljes"            : "6 000 Ft",
+                "Mellkas részleges"         : "4 000 Ft",
+                "Has teljes vagy részleges" : "2 000 Ft-tól",
+                "Fenék"                     : "3 500 Ft",
+                "Bikin"                     : "4 000 Ft",
+                "Intim / Brazil"            : "8 500 Ft"
+            }
+        },
+        {
+            "id"       : 11,
+            "title"    : "Fülbevaló implantáció",
+            "services" : {
+                "Fülbevaló / orvosi fémből / steril belövése utókezelő krémmel, gyerekekenek is" : "8 000 Ft párban"
+            }
+        },
+        {
+            "id"       : 12,
+            "title"    : "Smink",
+            "services" : {
+                "Sminktanácsadás"      : "10 000 Ft",
+                "Nappali"              : "20 000 Ft",
+                "Alkalmi / Próbasmink" : "25 000 Ft",
+                "Esküvői tartós smink" : "35 000 Ft"
+            }
+        },
+        {
+            "id"       : 13,
+            "title"    : "Tetoválás",
+            "services" : {
+                "Szemöldök púderes"                                    : "80 - 100 000 Ft",
+                "Szemöldök szálas"                                     : "60 000 Ft",
+                "Szempillatősűrítés felsőszemhély"                     : "40 000 Ft",
+                "Szempillatősűrítés alsószemhély"                      : "30 000 Ft",
+                "Felsőszemhély normál tusvonal"                        : "60 000 Ft",
+                "Felsőszemhély vastag tusvonal"                        : "70 000 Ft",
+                "Száj alsó + felső kontúr + félsatír"                  : "80 000 Ft",
+                "Száj alsó + felső kontúr + teljes satír"              : "100 000 Ft",
+                "Tetoválás eltávolítás / alkalom / saját munka"        : "50 000 Ft",
+                "Minden tovább korrekció alkalmanként 2 hónapon belül" : "25 000 Ft"
+            }
+        },
+        {
+            "id"       : 14,
+            "title"    : "Végleges szőrtelenítés",
+            "services" : {
+                "Diatermiás szőreltávolítás szálanként" : "1 000 Ft / db",
+                "IPL technológia területenként"         : "1 alk\t3 alk", 
+                "Bajúsz"                                : "3 000 Ft\t8 000 Ft",
+                "Áll, mellbimbók körül"                 : "5 000 Ft\t12 000 Ft",
+                "Szemöldökhöz"                          : "1 000 Ft\t2 000 Ft",
+                "Pajesz"                                : "4 000 Ft\t10 000 Ft",
+                "Arc részleges"                         : "5 000 Ft\t12 000 Ft",
+                "Arc teljes"                            : "8 000 Ft\t20 000 Ft",
+                "Nyak"                                  : "6 000 Ft\t16 000 Ft",
+                "Alkar"                                 : "10 000 Ft\t23 000 Ft",
+                "Vállak"                                : "10 000 Ft\t23 000 Ft",
+                "Lábfej, kézfej"                        : "5 000 Ft\t12 000 Ft",
+                "lábszár"                               : "21 900 Ft\t59 000 Ft",
+                "Combok"                                : "21 900 Ft\t59 000 Ft",
+                "Láb végig"                             : "35 000 Ft\t79 000 Ft",
+                "Mellkas"                               : "14 500 Ft\t",
+                "Has"                                   : "10 000 Ft\t23 000 Ft",
+                "Has csík"                              : "6 000 Ft\t16 000 Ft",
+                "Hónaljak"                              : "5 000 Ft\t12 000 Ft",
+                "Bikni"                                 : "6 000 Ft\t16 000 Ft",
+                "Fenék"                                 : "10 000 Ft\t23 000 Ft",
+                "Intim teljes"                          : "15 000 Ft\t40 000 Ft"
+            }
+        }
+    ]
+}

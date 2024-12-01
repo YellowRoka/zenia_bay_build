@@ -1,0 +1,8 @@
+{
+    "linkASZF"        : "https://admin.fogyasztobarat.hu/my-pdf.php?params=aszf/...pdf",
+    "linkDataprotect" : "https://admin.fogyasztobarat.hu/my-pdf.php?params=at/...pdf",
+    "linkwithdrawal"  : "https://admin.fogyasztobarat.hu/my-pdf.php?params=em/...pdf",
+    "linkImpressum"   : "https://admin.fogyasztobarat.hu/my-pdf.php?params=imp/...pdf",
+    "linkCookiesDoc"  : "https://admin.fogyasztobarat.hu/my-pdf.php?params=cookie/...pdf",
+    "creatorURL"      : "https://yellowroka.github.io/webcvpage.github.io/"
+}
