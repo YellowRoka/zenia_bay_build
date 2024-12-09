@@ -14,8 +14,8 @@
             "id"       : 1,
             "title"    : "Machine Treatments",
             "services" : {
-                "Vito / Hemostasis"            : "3,500 HUF",
-                "Vito / Swelling Reduction"    : "3,500 HUF",
+                "Vio / Hemostasis"            : "3,500 HUF",
+                "Vio / Swelling Reduction"    : "3,500 HUF",
                 "Iontophoresis / Galvanic Deep Hydration" : "5,000 HUF",
                 "Ultrasonic Hand Care"         : "5,000 HUF",
                 "Paraffin Hand Care"           : "4,000 HUF"
