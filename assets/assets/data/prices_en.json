@@ -2,195 +2,202 @@
     "locale": "en",
     "groups":[
         {
-            "id"       : 0,
-            "title"    : "Consultations & Diagnostics",
-            "services" : {
-                "Consultation"                  : "5,000 HUF - 15'",
-                "Skin Diagnosis"                : "10,000 HUF - 20'",
-                "Personalized Advice"           : "13,000 HUF - 20'"
+            "id": 0,
+            "title": "Consultations & Diagnostics",
+            "services": {
+                "Consultation": "5 000 Ft - 15'",
+                "Skin diagnostics (lesions, warts, dilated vessels, scars, melasma, allergies)": "10 000 Ft - 20'",
+                "Personalized dietary and internal medicine consultation": "13 000 Ft - 20'"
             }
         },
         {
-            "id"       : 1,
-            "title"    : "Machine Treatments",
-            "services" : {
-                "Vio / Hemostasis"            : "3,500 HUF",
-                "Vio / Swelling Reduction"    : "3,500 HUF",
-                "Iontophoresis / Galvanic Deep Hydration" : "5,000 HUF",
-                "Ultrasonic Hand Care"         : "5,000 HUF",
-                "Paraffin Hand Care"           : "4,000 HUF"
+            "id": 1,
+            "title": "Machine Treatments",
+            "services": {
+                "Vio / hemostasis": "3 000 Ft",
+                "Vio / anti-swelling": "3 000 Ft",
+                "Iontophoresis / galvanic deep hydration": "3 000 Ft",
+                "Ultrasound deep nourishment, wrinkle reduction": "3 000 Ft",
+                "Microdermabrasion / diamond-tip vacuum peeling": "3 500 Ft",
+                "Paraffin hand treatment": "4 000 Ft"
             }
         },
         {
-            "id"       : 2,
-            "title"    : "Extra Materials",
-            "services" : {
-                "Mask / Pack"                                : "From 2,000 HUF",
-                "Special Serum Preparations"                 : "From 5,000 HUF",
-                "Microdermabrasion / Diamond-Tip Vacuum Peeling" : "5,000 HUF"
+            "id": 2,
+            "title": "Extra Materials",
+            "services": {
+                "Mask / pack": "from 2 000 Ft",
+                "Special serum products": "from 5 000 Ft"
             }
         },
         {
-            "id"       : 3,
-            "title"    : "Regenerative Treatments",
-            "services" : {
-                "Peeling"                       : "18,000 HUF",
-                "Vio"                           : "18,000 HUF",
-                "Ionto"                         : "18,000 HUF",
-                "Ultrasound"                    : "18,000 HUF",
-                "Face + Décolleté Massage"      : "18,000 HUF"
+            "id": 3,
+            "title": "Regenerating Treatments",
+            "services": {
+                "peeling": "18 000 Ft",
+                "vio": "18 000 Ft",
+                "ionto": "18 000 Ft",
+                "ultrasound": "18 000 Ft",
+                "face + cleavage massage": "18 000 Ft"
             }
         },
         {
-            "id"       : 4,
-            "title"    : "Extra Regenerative Treatments",
-            "services" : {
-                "Peeling"                                      : "23,000 HUF",
-                "Vio"                                          : "23,000 HUF",
-                "Ionto"                                        : "23,000 HUF",
-                "Ultrasound"                                   : "23,000 HUF",
-                "Face / Décolleté Massage with Special Serum"  : "23,000 HUF",
-                "Laser Wrinkle Treatment"                      : "23,000 HUF"
+            "id": 4,
+            "title": "Extra Regenerating Treatments",
+            "services": {
+                "peeling": "23 000 Ft",
+                "vio": "23 000 Ft",
+                "ionto": "23 000 Ft",
+                "ultrasound": "23 000 Ft",
+                "face / cleavage massage with special serum": "23 000 Ft",
+                "Laser wrinkle treatment": "1 000 Ft / spot"
             }
         },
         {
-            "id"       : 5,
-            "title"    : "Dermatological Treatments",
-            "services" : {
-                "Electrocoagulation / Permanent Removal of Dilated Capillaries & Skin Growths" : "1,000 HUF / spot",
-                "Ingrown Hair Treatment"                                                         : "1,000 HUF / piece",
-                "Rosacea Treatment"                                                              : "20,000 HUF",
-                "Laser Rosacea & Dilated Capillary Treatment"                                    : "20,000 HUF",
-                "Sterile Removal of Microlypomas / Permanent Removal of Fat Bumps"               : "20,000 HUF"
+            "id": 5,
+            "title": "Dermatological Treatments",
+            "services": {
+                "Removal of telangiectasia (Diathermy-Electrocoagulation)": "1 000 Ft / spot",
+                "Removal skin growths (Diathermy-Electrocoagulation)": "1 000 Ft / spot",
+                "Ingrown hair treatment": "1 000 Ft / each",
+                "Laser rosacea treatment": "20 000 Ft / session",
+                "Laser vessel treatment": "1 000 Ft / spot",
+                "Sterile removal of fat nodules / micro-lipomas": "2 - 10 000 Ft / each"
             }
         },
         {
-            "id"       : 6,
-            "title"    : "Pigmentation Spot Lightening",
-            "services" : {
-                "Face"                             : "From 1,500 HUF / spot",
-                "Arm"                              : "From 2,000 HUF / spot",
-                "Other Areas"                      : "From 2,000 HUF / spot",
-                "Laser Pigmentation Spot Removal"  : "From 2,000 HUF / spot"
+            "id": 6,
+            "title": "Pigmentation Lightening",
+            "services": {
+                "Face": "from 1 500 Ft",
+                "Arm": "from 2 000 Ft",
+                "Other areas": "from 2 000 Ft",
+                "Laser pigmentation treatment": "1 000 Ft / spot"
             }
         },
         {
-            "id"       : 7,
-            "title"    : "Skin Cleansing Treatments",
-            "services" : {
-                "Sterile Local Cleansing max 15'"                   : "10,000 HUF",
-                "Basic Treatment / Peeling, Steam, Sterile Cleansing, Vio, Ionto" : "20,000 HUF",
-                "Men's Basic Treatment / Peeling, Steam, Sterile Cleansing, Vio, Ionto" : "20,000 HUF",
-                "Complete Facial Treatment / Peeling, Steam, Cleansing, Vio, Ionto, Ultrasound, Facial Massage" : "30,000 HUF",
-                "Back Treatment"                                    : "15,000 HUF",
-                "Extra Facial Treatment / Peeling, Steam, Cleansing, Vio, Ionto, Ultrasound, Face + Décolleté Massage" : "30,000 HUF",
-                "Final Reconstruction Antiseptic Makeup"            : "From 2,000 HUF"
+            "id": 7,
+            "title": "Deep Cleansing Treatments",
+            "services": {
+                "peeling": "2 000 Ft",
+                "Sterile local cleansing max 15'": "10 000 Ft",
+                "Basic treatment (peeling, steam, sterile cleansing, vio, ionto)": "10 000 Ft",
+                "Teen sterile facial (peeling, steam, sterile cleansing, vio, ionto)": "22 000 Ft",
+                "Men’s facial (peeling, steam, cleansing, vio, ionto, ultrasound, face+cleavage massage)": "18 000 Ft",
+                "Back treatment": "5 - 15 000 Ft",
+                "Extra facial (peeling, steam, cleansing, vio, ionto, ultrasound, face+cleavage massage)": "23 000 Ft",
+                "Finishing antiseptic makeup included in treatments": "from 2 000 Ft",
+                "Regenerating treatment (peeling, vio, ionto, ultrasound, facial massage)": "18 000 Ft"
             }
         },
         {
-            "id"       : 8,
-            "title"    : "Tinting",
-            "services" : {
-                "Eyelashes"       : "2,800 HUF",
-                "Eyebrows"        : "2,800 HUF",
-                "Eyebrow Shaping" : "2,000 HUF"
+            "id": 8,
+            "title": "Tinting",
+            "services": {
+                "Eyelash": "2 800 Ft",
+                "Eyebrow": "2 800 Ft",
+                "Eyebrow shaping": "2 000 Ft"
             }
         },
         {
-            "id"       : 9,
-            "title"    : "Massage",
-            "services" : {
-                "Face 15'"                 : "6,000 HUF 15'",
-                "Face-Neck 15'"            : "8,000 HUF 15'",
-                "Face-Neck-Décolleté 25'"  : "10,000 HUF 30'"
+            "id": 9,
+            "title": "Massage",
+            "services": {
+                "Face 15'": "5 000 Ft 15'",
+                "Face-neck 15'": "6 000 Ft 15'",
+                "Face-neck-cleavage 25'": "8 000 Ft 30'"
             }
         },
         {
-            "id"       : 10,
-            "title"    : "Waxing",
-            "services" : {
-                "Eyebrows"               : "2,800 HUF",
-                "Nostrils"               : "2,000 HUF",
-                "Upper Lip"              : "2,000 HUF",
-                "Partial Face"           : "3,500 HUF",
-                "Full Face"              : "4,500 HUF",
-                "Shoulders"              : "2,000 HUF",
-                "Partial Back"           : "4,000 HUF",
-                "Full Back"              : "6,000 HUF",
-                "Legs to Knee"           : "4,500 HUF",
-                "Full Legs"              : "7,000 HUF",
-                "Thighs"                 : "4,000 HUF",
-                "Armpits"                : "3,000 HUF",
-                "Arms to Elbow"          : "3,000 HUF",
-                "Full Arms"              : "4,000 HUF",
-                "Hands, Feet, and Toes"  : "2,500 HUF",
-                "Full Chest"             : "6,000 HUF",
-                "Partial Chest"          : "4,000 HUF",
-                "Full or Partial Abdomen": "From 2,000 HUF",
-                "Buttocks"               : "3,500 HUF",
-                "Bikini"                 : "4,000 HUF",
-                "Intimate / Brazilian"   : "8,500 HUF"
+            "id": 10,
+            "title": "Waxing",
+            "services": {
+                "Eyebrow": "2 800 Ft",
+                "Nostrils": "1 000 Ft",
+                "Upper lip": "2 000 Ft",
+                "Partial face": "3 200 Ft",
+                "Full face": "4 000 Ft",
+                "Shoulders": "from 2 500 Ft",
+                "Partial back": "from 4 000 Ft",
+                "Full back": "from 6 000 Ft",
+                "Legs to knees": "from 4 000 Ft",
+                "Full legs": "from 6 000 Ft",
+                "Thighs": "from 4 000 Ft",
+                "Armpits": "from 2 500 Ft",
+                "Arms to elbows": "from 2 500 Ft",
+                "Full arms": "from 3 500 Ft",
+                "Hands, feet, and fingers": "from 2 500 Ft",
+                "Full chest": "from 6 000 Ft",
+                "Partial chest": "from 4 000 Ft",
+                "Full or partial abdomen": "from 2 000 Ft",
+                "Waist": "from 2 500 Ft",
+                "Buttocks": "from 2–3 500 Ft",
+                "Bikini / shape": "from 3 000 Ft",
+                "Intimate / Brazilian": "from 8 500 Ft"
             }
         },
         {
-            "id"       : 11,
-            "title"    : "Earring Implantation",
-            "services" : {
-                "Earring / Sterile Piercing with Medical Metal and Aftercare Cream, Suitable for Children" : "8,000 HUF per pair"
+            "id": 11,
+            "title": "Earring Implantation",
+            "services": {
+                "Earring(medical metal)sterile piercing with aftercare cream, for children too": "8 000 Ft/pair"
             }
         },
         {
-            "id"       : 12,
-            "title"    : "Makeup",
-            "services" : {
-                "Makeup Advice"      : "10,000 HUF",
-                "Day Makeup"         : "20,000 HUF",
-                "Occasion Makeup / Trial Makeup" : "25,000 HUF",
-                "Wedding Long-Lasting Makeup"    : "35,000 HUF"
+            "id": 12,
+            "title": "Makeup",
+            "services": {
+                "Makeup consultation 20'": "10 000 Ft",
+                "Day makeup": "20 000 Ft",
+                "Occasional / trial makeup": "25 000 Ft",
+                "Wedding long-lasting makeup": "35 000 Ft"
             }
         },
         {
-            "id"       : 13,
-            "title"    : "Tattooing",
-            "services" : {
-                "Eyebrows Powder Effect"                               : "80,000 - 100,000 HUF",
-                "Eyebrows Hair-Stroke Effect"                          : "60,000 HUF",
-                "Eyelash Enhancement Upper Eyelid"                     : "40,000 HUF",
-                "Eyelash Enhancement Lower Eyelid"                     : "30,000 HUF",
-                "Upper Eyelid Normal Eyeliner"                         : "60,000 HUF",
-                "Upper Eyelid Thick Eyeliner"                          : "70,000 HUF",
-                "Lips Lower + Upper Contour + Partial Shading"         : "80,000 HUF",
-                "Lips Lower + Upper Contour + Full Shading"            : "100,000 HUF",
-                "Tattoo Removal / Session / Own Work"                  : "50,000 HUF",
-                "All Additional Corrections within 2 Months"           : "25,000 HUF"
+            "id": 13,
+            "title": "Tattoo",
+            "services": {
+                "Powder brows": "80 - 100 000 Ft",
+                "Hair-stroke brows": "60 000 Ft",
+                "Upper eyelid lash line enhancement": "40 000 Ft",
+                "Lower eyelid lash line enhancement": "30 000 Ft",
+                "Upper eyelid classic eyeliner": "60 000 Ft",
+                "Upper eyelid thick eyeliner": "70 000 Ft",
+                "Lips upper + lower contour + partial shading": "80 000 Ft",
+                "Lips upper + lower contour + full shading": "100 000 Ft",
+                "Tattoo removal / per session / own work": "50 000 Ft",
+                "All further corrections within 2 months / per session": "25 000 Ft"
             }
         },
         {
-            "id"       : 14,
-            "title"    : "Permanent Hair Removal",
-            "services" : {
-                "Diathermy Hair Removal per Hair"      : "1,000 HUF / piece",
-                "IPL Technology by Area"              : "1 session\t3 sessions",
-                "Upper Lip"                           : "3,000 HUF\t8,000 HUF",
-                "Chin, Around Nipples"                : "5,000 HUF\t12,000 HUF",
-                "Near Eyebrows"                       : "1,000 HUF\t2,000 HUF",
-                "Sideburns"                           : "4,000 HUF\t10,000 HUF",
-                "Partial Face"                        : "5,000 HUF\t12,000 HUF",
-                "Full Face"                           : "8,000 HUF\t20,000 HUF",
-                "Neck"                                : "6,000 HUF\t16,000 HUF",
-                "Forearms"                            : "10,000 HUF\t23,000 HUF",
-                "Shoulders"                           : "10,000 HUF\t23,000 HUF",
-                "Feet, Hands"                         : "5,000 HUF\t12,000 HUF",
-                "Lower Leg"                           : "21,900 HUF\t59,000 HUF",
-                "Thighs"                              : "21,900 HUF\t59,000 HUF",
-                "Full Leg"                            : "35,000 HUF\t79,000 HUF",
-                "Chest"                               : "14,500 HUF\t",
-                "Abdomen"                             : "10,000 HUF\t23,000 HUF",
-                "Abdominal Strip"                     : "6,000 HUF\t16,000 HUF",
-                "Armpits"                             : "5,000 HUF\t12,000 HUF",
-                "Bikini"                              : "6,000 HUF\t16,000 HUF",
-                "Buttocks"                            : "10,000 HUF\t23,000 HUF",
-                "Full Intimate"                       : "15,000 HUF\t40,000 HUF"
+            "id": 14,
+            "title": "Permanent Hair Removal",
+            "services": {
+                "Diathermic hair removal per hair": "1 000 Ft / each",
+                "IPL technology by area": "1 session\t3 sessions",
+                "Upper lip": "3 000 Ft\t8 000 Ft",
+                "Chin": "3 000 Ft\t8 000 Ft",
+                "Eyebrow area": "1 000 Ft\t2 500 Ft",
+                "Sideburns": "3 000 Ft\t8 000 Ft",
+                "Partial face": "8 000 Ft\t20 000 Ft",
+                "Full face": "10 000 Ft\t25 000 Ft",
+                "Nape": "8 000 Ft\t20 000 Ft",
+                "Forearm": "15 000 Ft\t38 000 Ft",
+                "Shoulders": "13 000 Ft\t34 000 Ft",
+                "Feet, hands, fingers": "8 000 Ft\t20 000 Ft",
+                "Lower legs": "25 000 Ft\t65 000 Ft",
+                "Thighs": "25 000 Ft\t65 000 Ft",
+                "Full legs": "50 000 Ft\t130 000 Ft",
+                "Chest": "15 000 Ft\t38 000 Ft",
+                "Around nipples": "8 000 Ft\t20 000 Ft",
+                "Back": "30 000 Ft\t80 000 Ft",
+                "Abdomen": "10 000 Ft\t25 000 Ft",
+                "Abdominal line": "5 000 Ft\t13 000 Ft",
+                "Armpits": "10 000 Ft\t25 000 Ft",
+                "Bikini": "13 000 Ft\t34 000 Ft",
+                "Buttocks": "12 000 Ft\t30 000 Ft",
+                "Waist": "12 000 Ft\t30 000 Ft",
+                "Full intimate": "23 000 Ft\t60 000 Ft"
             }
         }
     ]

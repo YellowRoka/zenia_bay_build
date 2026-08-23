@@ -6,18 +6,19 @@
             "title"    : "Konzultációk & diagnosztikák",
             "services" : {
                 "Konzultáció"                  : "5 000 Ft - 15'",
-                "Bőrdiagnosztika"              : "10 000 Ft - 20'",
-                "Személyre szabott tanácsadás" : "13 000 Ft - 20'"
+                "Bőrdiagnosztika (májfoltok, értágulatok, elváltozások, szemölcsök, hegek, allergiák)" : "10 000 Ft - 20'",
+                "Személyreszabott szabott étrendi, belgyógyászati tanácsadás " : "13 000 Ft - 20'"
             }
         },
         {
             "id"       : 1,
             "title"    : "Gépi kezelés",
             "services" : {
-                "Vio / vérzécsillapítás"    : "3 500 Ft",
-                "Vio / duzzanat csökkentés" : "3 500 Ft",
-                "Iontoforézis / galvántartalmú mélyhidratálás" : "5 000 Ft",
-                "Ultrahangos kézápolás" : "5 000 Ft",
+                "Vio / vérzécsillapítás"    : "3 000 Ft",
+                "Vio / duzzanat csökkentés" : "3 000 Ft",
+                "Iontoforézis / galvántartalmú mélyhidratálás" : "3 000 Ft",
+                "Ultrahang mélytáplálás, ránctalanítás" : "3 000 Ft",
+                "Microdermabrasion / gyémántfejes gépi vacum peeling" : "3 500 Ft ",
                 "Paraffinos kézápolás"  : "4 000 Ft"
             }
         },
@@ -26,8 +27,7 @@
             "title"    : "Extra anyagok",
             "services" : {
                 "Maszk / pakolás"               : "2 000 Ft-tól",
-                "Speciális szérum készítmények" : "5 000 Ft-tól",
-                "Microdermabrasion / gyémántfejes gépi vacum peeling" : "5 000 Ft "
+                "Speciális szérum készítmények" : "5 000 Ft-tól"
             }
         },
         {
@@ -50,41 +50,44 @@
                 "ionto"     : "23 000 Ft",
                 "ultrahang" : "23 000 Ft",
                 "arc / dekoltázs masszáz speciális szérummal" : "23 000 Ft",
-                "Lézeres ránckezelés" : "23 000 Ft"
+                "Lézeres ránckezelés" : "1 000 Ft / pont"
             }
         },
         {
             "id"       : 5,
             "title"    : "Bőrgyógyászati kezelések",
             "services" : {
-                "Electrocoagulation / hajsálértágulás, bőrnövedékek végleges eltávolítása"     : "1 000 Ft / pont ",
+                "Hajszálértágulás eltávolítása (Diatermia-Electrocoagulation)" : "1 000 Ft / pont",
+                "Bőrnövedékek eltávolítása (Diatermia-Electrocoagulation)" : "1 000 Ft / pont ",
                 "Szőralánövés kezelés"                : "1000 Ft / db",
-                "Rozácea kezelés"                     : "20 000 Ft",
-                "Lézeres rozácea-, értágulat kezelés" : "20 000 Ft",
-                "Microlypómák steril eltávolítása / zsírcsomócskák végleges kiirtása" : "20 000 Ft"
+                "Lézeres Rozácea kezelés"             : "20 000 Ft / Alk.",
+                "Lézeres értágulat kezelés"           : "1 000 Ft / pont",
+                "zsírcsomócskák (Microlypómák steril eltávolítása)" : "2 - 10 000 Ft / db"
             }
         },
         {
             "id"       : 6,
             "title"    : "Pigmentfolt halványítás",
             "services" : {
-                "Arc"                            : "1 500 Ft / pont-tól",
-                "Kar"                            : "2 000 Ft / pont-tól",
-                "Egyéb terület"                  : "2 000 Ft / pont-tól",
-                "Lézeres pigmentfolt etávolítás" : "2 000 Ft / pont-tól"
+                "Arc"                         : "1 500 Ft-tól",
+                "Kar"                         : "2 000 Ft-tól",
+                "Egyéb terület"               : "2 000 Ft-tól",
+                "Lézeres pigmentfolt kezelés" : "1 000 Ft / pont"
             }
         },
         {
             "id"       : 7,
             "title"    : "Bőrtisztító kezelések",
             "services" : {
+                "peeling" : "2 000 Ft",
                 "Steril helyi tisztítás max 15'" : "10 000 Ft",
-                "Általános alapkezelés / peeling, gőz, steril tisztítás, vio, ionto" : "20 000 Ft",
-                "Férfi általános / peeling, gőz, steril tisztítás, vio, ionto" : "20 000 Ft",
-                "Komplett arckezelés / peeling, gőz, tisztítás, vio, ionto, ultrahang, arcmasszázs" : "30 000 Ft",
-                "Hátkezelés" : "15 000 Ft",
-                "Extra arckezelés / peeling, gőz, tisztítás, vio, ionto, ultrahang, arc + dekoltázs masszázs" : "30 000 Ft",
-                "A kezelésekhez tartozó, befejező, rekonstrukcios antiszeptikus smink" : "2 000 Ft-tól"
+                "Alapkezelés (peeling, gőz, steril tisztítás, vio, ionto)" : "10 000 Ft",
+                "Teeneger steril arckezelés (peeling, gőz, steril tisztítás, vio, ionto)" : "22 000 Ft",
+                "Férfi arckézelés (peeling, gőz, tisztítás, vio, ionto, ultrahang, arc + dekoltázs masszázs)" : "18 000 Ft",
+                "Hátkezelés" : "5 - 15 000 Ft",
+                "Extra arckezelés (peeling, gőz, tisztítás, vio, ionto, ultrahang, arc + dekoltázs masszázs)" : "23 000 Ft",
+                "A kezelésekhez tartozó, befejező, rekonstrukcios antiszeptikus smink" : "2 000 Ft-tól",
+                "Regeneráló kezelés (peeling, vio, ionto, ultrahang, arcmasszázs)" : "18 000 Ft"
             }
         },
         {
@@ -100,9 +103,9 @@
             "id"       : 9,
             "title"    : "Masszázs",
             "services" : {
-                "Arc 15'"                : "6 000 Ft 15'",
-                "Arc-nyak 15'"           : "8 000 Ft 15'",
-                "Arc-nyak-dekoltázs 25'" : "10 000 Ft 30'"
+                "Arc 15'"                : "5 000 Ft 15'",
+                "Arc-nyak 15'"           : "6 000 Ft 15'",
+                "Arc-nyak-dekoltázs 25'" : "8 000 Ft 30'"
             }
         },
         {
@@ -110,40 +113,41 @@
             "title"    : "Gyantázás",
             "services" : {
                 "Szemöldök"                 : "2 800 Ft",
-                "Orrkagylók"                : "2 000 Ft",
+                "Orrkagylók"                : "1 000 Ft",
                 "Bajúsz"                    : "2 000 Ft",
-                "Arc részleg"               : "3 500 Ft",
-                "Arc teljes"                : "4 500 Ft",
-                "Vállak"                    : "2 000 Ft",
-                "Hát részleges"             : "4 000 Ft",
-                "Hát teljes"                : "6 000 Ft",
-                "Láb térdig"                : "4 500 Ft",
-                "Láb végig"                 : "7 000 Ft",
-                "Comb"                      : "4 000 Ft",
-                "Hónalj"                    : "3 000 Ft",
-                "Kar könyégik"              : "3 000 Ft",
-                "Kar végig"                 : "4 000 Ft",
-                "Kéz, lábfej, és újjak"     : "2 500 Ft",
-                "Mellkas teljes"            : "6 000 Ft",
-                "Mellkas részleges"         : "4 000 Ft",
+                "Arc részleg"               : "3 200 Ft",
+                "Arc teljes"                : "4 000 Ft",
+                "Vállak"                    : "2 500 Ft-tól",
+                "Hát részleges"             : "4 000 Ft-tól",
+                "Hát teljes"                : "6 000 Ft-tól",
+                "Láb térdig"                : "4 000 Ft-tól",
+                "Láb végig"                 : "6 000 Ft-tól",
+                "Comb"                      : "4 000 Ft-tól",
+                "Hónalj"                    : "2 500 Ft-tól",
+                "Kar könyégik"              : "2 500 Ft-tól",
+                "Kar végig"                 : "3 500 Ft-tól",
+                "Kéz, lábfej, és újjak"     : "2 500 Ft-tól",
+                "Mellkas teljes"            : "6 000 Ft-tól",
+                "Mellkas részleges"         : "4 000 Ft-tól",
                 "Has teljes vagy részleges" : "2 000 Ft-tól",
-                "Fenék"                     : "3 500 Ft",
-                "Bikin"                     : "4 000 Ft",
-                "Intim / Brazil"            : "8 500 Ft"
+                "Derék"                     : "2 500 Ft-tól",
+                "Fenék"                     : "2-3 500 Ft-tól",
+                "Bikin / Fazon"             : "3 000 Ft-tól",
+                "Intim / Brazil"            : "8 500 Ft-tól"
             }
         },
         {
             "id"       : 11,
             "title"    : "Fülbevaló implantáció",
             "services" : {
-                "Fülbevaló / orvosi fémből / steril belövése utókezelő krémmel, gyerekekenek is" : "8 000 Ft párban"
+                "Fülbevaló(orvosi fém)steril belövése utókezelő krémmel, gyerekekenek is" : "8 000 Ft/pár"
             }
         },
         {
             "id"       : 12,
             "title"    : "Smink",
             "services" : {
-                "Sminktanácsadás"      : "10 000 Ft",
+                "Sminktanácsadás 20'"  : "10 000 Ft",
                 "Nappali"              : "20 000 Ft",
                 "Alkalmi / Próbasmink" : "25 000 Ft",
                 "Esküvői tartós smink" : "35 000 Ft"
@@ -172,25 +176,28 @@
                 "Diatermiás szőreltávolítás szálanként" : "1 000 Ft / db",
                 "IPL technológia területenként"         : "1 alk\t3 alk", 
                 "Bajúsz"                                : "3 000 Ft\t8 000 Ft",
-                "Áll, mellbimbók körül"                 : "5 000 Ft\t12 000 Ft",
-                "Szemöldökhöz"                          : "1 000 Ft\t2 000 Ft",
-                "Pajesz"                                : "4 000 Ft\t10 000 Ft",
-                "Arc részleges"                         : "5 000 Ft\t12 000 Ft",
-                "Arc teljes"                            : "8 000 Ft\t20 000 Ft",
-                "Nyak"                                  : "6 000 Ft\t16 000 Ft",
-                "Alkar"                                 : "10 000 Ft\t23 000 Ft",
-                "Vállak"                                : "10 000 Ft\t23 000 Ft",
-                "Lábfej, kézfej"                        : "5 000 Ft\t12 000 Ft",
-                "lábszár"                               : "21 900 Ft\t59 000 Ft",
-                "Combok"                                : "21 900 Ft\t59 000 Ft",
-                "Láb végig"                             : "35 000 Ft\t79 000 Ft",
-                "Mellkas"                               : "14 500 Ft\t",
-                "Has"                                   : "10 000 Ft\t23 000 Ft",
-                "Has csík"                              : "6 000 Ft\t16 000 Ft",
-                "Hónaljak"                              : "5 000 Ft\t12 000 Ft",
-                "Bikni"                                 : "6 000 Ft\t16 000 Ft",
-                "Fenék"                                 : "10 000 Ft\t23 000 Ft",
-                "Intim teljes"                          : "15 000 Ft\t40 000 Ft"
+                "Áll"                                   : "3 000 Ft\t8 000 Ft",
+                "Szemöldökhöz"                          : "1 000 Ft\t2 500 Ft",
+                "Pajesz"                                : "3 000 Ft\t8 000 Ft",
+                "Arc részleges"                         : "8 000 Ft\t20 000 Ft",
+                "Arc teljes"                            : "10 000 Ft\t25 000 Ft",
+                "Tarkó"                                 : "8 000 Ft\t20 000 Ft",
+                "Alkar"                                 : "15 000 Ft\t38 000 Ft",
+                "Vállak"                                : "13 000 Ft\t34 000 Ft",
+                "Lábfej, kézfej, újjak"                 : "8 000 Ft\t20 000 Ft",
+                "lábszár"                               : "25 000 Ft\t65 000 Ft",
+                "Combok"                                : "25 000 Ft\t65 000 Ft",
+                "Láb végig"                             : "50 000 Ft\t130 000 Ft",
+                "Mellkas"                               : "15 000 Ft\t38 000 Ft",
+                "Mellbimbók körül"                      : "8 000 Ft\t20 000 Ft",
+                "Hát"                                   : "30 000 Ft\t80 000 Ft",
+                "Has"                                   : "10 000 Ft\t25 000 Ft",
+                "Hascsík"                               : "5 000 Ft\t13 000 Ft",
+                "Hónaljak"                              : "10 000 Ft\t25 000 Ft",
+                "Bikni"                                 : "13 000 Ft\t34 000 Ft",
+                "Fenék"                                 : "12 000 Ft\t30 000 Ft",
+                "Derék"                                 : "12 000 Ft\t30 000 Ft",
+                "Intim teljes"                          : "23 000 Ft\t60 000 Ft"
             }
         }
     ]
