@@ -1,3 +1,6 @@
+var splashFadeDelayMs = 220;
+var splashFadeDurationMs = 900;
+
 window.addEventListener("flutter-first-frame", function () {
   var splash = document.getElementById("launch-splash");
   if (!splash) {
@@ -10,8 +13,8 @@ window.addEventListener("flutter-first-frame", function () {
         splash.classList.add("is-hidden");
         window.setTimeout(function () {
           splash.remove();
-        }, 430);
-      }, 60);
+        }, splashFadeDurationMs + 40);
+      }, splashFadeDelayMs);
     });
   });
 });
