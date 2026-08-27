@@ -1,4 +1,4 @@
-var splashFadeDelayMs = 220;
+var splashFadeDelayMs = 500;
 var splashFadeDurationMs = 900;
 
 window.addEventListener("flutter-first-frame", function () {
